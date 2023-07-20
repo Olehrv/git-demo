@@ -3,15 +3,3 @@ wall of shields
 standing strong
 on this their chosen battle field
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-test
-test
-=======
-=======
-add some text to the song file
-
->>>>>>> feature
-
->>>>>>> feature
-
